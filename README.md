@@ -1,4 +1,4 @@
-# Project_6 - Curation App
+# Curation App
 
 This project is a **backend** curation logic application. The app allows users to curate questions by providing options like "Correct," "Not Correct," and "Not Sure." The app is designed to be easily deployable using Docker for containerization, making setup and running simple.
 
